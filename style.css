@@ -1,4 +1,12 @@
-h1{
-    background-color:blue;
+.box {
+    display:inline-block;
+    width: 0%
+    height: 0%
+    border-left: 50%;
+    border-bottom: 30%;
+    background-color: aqua;
     text-align:center;
+    margin:10px
+    align-items: center;
+
 }
